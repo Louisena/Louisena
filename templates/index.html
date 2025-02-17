@@ -10,8 +10,8 @@
 <body>
     <div class="container">
         <h1>Welcome to My Profile</h1>
-        <img src="static/profile.jpg" alt="Profile Picture">
-        <p>Hello! I am Louise Namugayi and I am learning web development. Happy to have you here. Let's see what I can do!</p>
+        <img src="{{ url_for('static', filename='profile.jpg') }}" alt="Profile Picture">
+        <p>Hello! I am Louise Namugayi and I am learning web development. Excited to be here. Let's see what I can do!</p>
     </div>
 </body>
 </html>
