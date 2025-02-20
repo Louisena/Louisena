@@ -1,0 +1,5 @@
+This is my static profile page bulit using HTML, CSS and pthyon. 
+I created a static profile page using HTML and CSS in this project, and hosted it as a web app with Flask.
+I set up Flask to render the profile page and serve static files like images and stylesheets. 
+After verifying that the app ran as expected in my local server environment, I started a Git repository, staged and committed my files, and pushed the project onto GitHub. 
+I learnt web development basics, Flask routing, and Git version control from this exercise.
