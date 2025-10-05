@@ -7,7 +7,7 @@ SOC Analyst & Cyber Risk Analyst | Security intern
 
 📂 Featured
 - SOC labs & investigations: https://github.com/Louisena/Cybersecurity-Portfolio/tree/main/SOC
-- Risk templates & policies: https://github.com/yourusername/Cybersecurity-Portfolio/tree/main/Risk-Management
+- Risk templates & policies: https://github.com/Louisena/Cybersecurity-Portfolio/tree/main/Risk-Management
 
 🛠 Tools & Frameworks
 
