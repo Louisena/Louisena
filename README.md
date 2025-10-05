@@ -6,7 +6,7 @@ SOC Analyst & Cyber Risk Analyst | Security intern
 - Risk & Governance: risk registers, ISO 27001 / NIST CSF mapping, policies
 
 📂 Featured
-- SOC labs & investigations: https://github.com/yourusername/Cybersecurity-Portfolio/tree/main/SOC
+- SOC labs & investigations: https://github.com/Louisena/Cybersecurity-Portfolio/tree/main/SOC
 - Risk templates & policies: https://github.com/yourusername/Cybersecurity-Portfolio/tree/main/Risk-Management
 
 🛠 Tools & Frameworks
